@@ -1,0 +1,26 @@
+{
+    "Engineer1":{
+        "name": "Vinay Hosamane",
+        "age": "24"
+    },
+    "Doctor1":{
+        "name":"Thyaga",
+        "age": "23"
+    },
+    "Engineer2":{
+        "name": "Vinay Hosamane",
+        "age": "24"
+    },
+    "Doctor2":{
+        "name":"Thyaga",
+        "age": "23"
+    },
+    "Engineer3":{
+        "name": "Vinay Hosamane",
+        "age": "24"
+    },
+    "Doctor3":{
+        "name":"Thyaga",
+        "age": "23"
+    }
+}
